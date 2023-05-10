@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning how github works
 - 🔭 I’m currently working on completing cs50 
+- 📫 How to reach me **noelbiggs28@gmail.com**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noelbiggs28&theme=blue-green)](https://git.io/streak-stats)
 <!--
