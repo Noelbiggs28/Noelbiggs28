@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning how github works
+- 🔭 I’m currently working on completing cs50
 <!--
 **Noelbiggs28/Noelbiggs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
