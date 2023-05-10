@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning how github works
 - 🔭 I’m currently working on completing cs50
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noelbiggs28)](https://git.io/streak-stats)
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noelbiggs28&theme=blue-green)](https://git.io/streak-stats)
 <!--
 **Noelbiggs28/Noelbiggs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
