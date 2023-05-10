@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning how github works
-- 🔭 I’m currently working on completing cs50
+- 🔭 I’m currently working on completing cs50 \n
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noelbiggs28&theme=blue-green)](https://git.io/streak-stats)
 <!--
 **Noelbiggs28/Noelbiggs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
