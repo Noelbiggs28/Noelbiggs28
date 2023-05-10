@@ -4,7 +4,7 @@
 - 📫 How to reach me **noelbiggs28@gmail.com**
 - <h3 align="left">Languages and Tools:</h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noelbiggs28&" alt="noelbiggs28" /></p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noelbiggs28&theme=blue-green)](https://git.io/streak-stats)
 <!--
 **Noelbiggs28/Noelbiggs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
