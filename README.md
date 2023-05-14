@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning how github works
+- 🌱 I’m currently learning flask
 - 🔭 I’m currently working on completing cs50 introduction to computer science and code platoons foundations of programming
 - 📫 How to reach me **noelbiggs28@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
